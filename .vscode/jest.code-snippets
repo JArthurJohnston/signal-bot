@@ -1,0 +1,10 @@
+{
+  "test function": {
+    "prefix": "test",
+    "body": [
+      "test('$1', () => {",
+      "\t$2",
+      "})\n"
+    ]
+  }
+}
